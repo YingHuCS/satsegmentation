@@ -1,0 +1,6 @@
+conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=9.2 -c pytorch
+pip(3) install opencv-python==3.3.0.10
+pip(3) install tqdm
+pip(3) install Cython
+pip(3) install mmcv
+pip(3) install matplotlib
