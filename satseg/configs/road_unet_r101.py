@@ -53,8 +53,8 @@ batch_size = 32
 num_workers = 4
 num_epochs = 500
 use_gpu = True
-checkpoint = '/raid/ying/checkpoints/satseg_road/Mix_Adam_32_001_330.pth'
+checkpoint = '/satsegmentation/trained_checkpoints/Mix_Adam_32_001_330.pth'
 #checkpoint = None
-checkpoint_dir = '/raid/ying/checkpoints/satseg_road/Mix_Adam_32_001_500'
+checkpoint_dir = ''
 resume = False
 
